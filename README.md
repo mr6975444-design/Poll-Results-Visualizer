@@ -1,5 +1,11 @@
 # 📊 Poll Results Visualizer
 
+# Poll Results Visualizer
+
+**Live Dashboard:** [Open Poll Results Visualizer](https://poll-results-visualizer-wddsvrrhv4h2o9dkmkvuzq.streamlit.app/)
+
+A beginner-friendly Python project that cleans, analyzes, and visualizes poll survey data using Pandas, Matplotlib, Seaborn, and Streamlit.
+
 ## Project Overview
 Poll Results Visualizer is a Python-based data analytics project that processes survey responses, cleans data, performs exploratory data analysis, and creates visualizations through an interactive Streamlit dashboard.
 
